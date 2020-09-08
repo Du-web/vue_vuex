@@ -1,5 +1,9 @@
 <template>
-    $END$
+
+  <div>
+    <span>{{$store.state.count}}</span>
+  </div>
+
 </template>
 
 <script>
